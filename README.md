@@ -1,12 +1,9 @@
-# nuke
-6969.420
+# Warpzone
 
-* When the decay of osmo is complete, obliterate all ions from accuounts that have not yet transacted on Osmosis. 
-* Supply to be forever capped at 6969.420
-* Future ion-related governance proposals may fund themselves by issuing new ions-- provided that the voting occurs in ion, and is on-chain.
+Warpzone will be a fast moving chain that Atom holders retain sovereignty over.
+It’s initial goal will be to host the Gravity Bridge software. This will enable Ethereum tokens to flow into the Cosmos ecosystem.
 
-
-## Software
-
-* Identify and eliminate stranded ions
-* Allow for ions to vote such that they're able to self-govern
+* The snapshot will be taken at the end of the proposal voting period.
+* Exchange validators + delegators will be removed as they are detrimental to fast moving governance.
+* A governance GUI system will be launched soon after launch to enable everyone to submit governance proposals.
+* The token will be called ‘Photon’ and will signify that the chain will move at the speed of light.
